@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.20.30234.0%0D%0A%0D%0A00:00:00.192%20--%3E%2000:00:00.957%0D%0AWell,%20Done!%0D%0A%0D%0A00:00:01.050%20--%3E%2000:00:04.102%0D%0AYou%20now%20know%20how%20to%20use%20the%20button%20to%20ask%20for%20help.%0D%0A%0D%0A"}')
